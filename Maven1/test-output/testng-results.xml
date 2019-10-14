@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2019-10-14T10:18:48Z" finished-at="2019-10-14T10:18:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2019-10-14T10:18:48Z" finished-at="2019-10-14T10:18:48Z">
+      <class name="PP1.CC1">
+        <test-method status="PASS" signature="mvn1()[pri:0, instance:PP1.CC1@62ee68d8]" name="mvn1" duration-ms="36" started-at="2019-10-14T15:48:48Z" finished-at="2019-10-14T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvn1 -->
+        <test-method status="PASS" signature="mvn2()[pri:0, instance:PP1.CC1@62ee68d8]" name="mvn2" duration-ms="6" started-at="2019-10-14T15:48:48Z" finished-at="2019-10-14T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvn2 -->
+        <test-method status="PASS" signature="mvn3()[pri:0, instance:PP1.CC1@62ee68d8]" name="mvn3" duration-ms="5" started-at="2019-10-14T15:48:48Z" finished-at="2019-10-14T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvn3 -->
+        <test-method status="PASS" signature="mvn4()[pri:0, instance:PP1.CC1@62ee68d8]" name="mvn4" duration-ms="3" started-at="2019-10-14T15:48:48Z" finished-at="2019-10-14T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvn4 -->
+        <test-method status="PASS" signature="mvn5()[pri:0, instance:PP1.CC1@62ee68d8]" name="mvn5" duration-ms="5" started-at="2019-10-14T15:48:48Z" finished-at="2019-10-14T15:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mvn5 -->
+      </class> <!-- PP1.CC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

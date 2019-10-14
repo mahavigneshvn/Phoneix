@@ -1,0 +1,7 @@
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="PP1.CC1"/>
+    </classes>
+  </test> 
+</suite>
