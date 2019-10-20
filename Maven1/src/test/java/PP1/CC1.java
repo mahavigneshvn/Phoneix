@@ -39,4 +39,8 @@ public class CC1
   {
 	  System.out.println("From mvn7");
   }	
+  public void mvn8()
+  {
+	  System.out.println("From mvn8");
+  }
 }
