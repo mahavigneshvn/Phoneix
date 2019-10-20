@@ -29,5 +29,10 @@ public class CC1
   {
 	  System.out.println("From mvn5");
   }
+  @Test
+  public void mvn6()
+  {
+	  System.out.println("From mvn6");
+  }
 	
 }
